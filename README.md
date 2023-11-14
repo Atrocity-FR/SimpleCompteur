@@ -1,0 +1,1 @@
+Simple compteur de lignes.
